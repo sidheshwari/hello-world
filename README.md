@@ -1,3 +1,3 @@
 # hello-world
-just another project
-I'm tring to learn Github :-)
+just another projec 
+I'm tring to learn Github....  
