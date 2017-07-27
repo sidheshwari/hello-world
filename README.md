@@ -1,2 +1,3 @@
 # hello-world
-just another project
+just another projec 
+I'm tring to learn Github....  
